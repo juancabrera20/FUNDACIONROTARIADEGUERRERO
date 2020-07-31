@@ -1,0 +1,296 @@
+body{
+  background-color: #035aa6;
+  text-align: center;
+}
+.galeria-d{
+  font-family: sans-serif;
+  background-color: white;
+
+}
+.galeria-h1{
+  text-align: center;
+  color: forestgreen;
+  margin: 30px 0 50px;
+}
+
+
+header{
+  background-color: #f0a500;
+}
+.header-icon{
+  color: white;
+  padding-left: 50px;
+}
+/* headingsection */
+
+.Heading{
+  background-color:#f0a500;
+
+}
+.title{
+  color: white;
+  font-family: 'fira sans', sans-serif;
+  text-align: center;
+  padding-top: 5%;
+  font-size: 4rem;
+  padding-bottom: 5%;
+  margin-bottom: 0;
+}
+
+/* navbarsection */
+
+.navbar{
+  background-color: white;
+}
+.navbar-button{
+  color: #f0a500;
+  text-align: left;
+}
+.navbar-button:hover{
+  color: #035aa6;
+  text-decoration: underline;
+}
+
+/* presentacionalpublicosection */
+
+.presentacionalpublico{
+  background-color: white;
+
+}
+.presentacionalpublico-1{
+margin-top: 50px;
+}
+.presentacion-texto{
+  color: #035aa6;
+  text-align: center;
+  font-family: 'fira sans', sans-serif;
+  font-size: 3rem;
+  font-weight: bold;
+  margin-top: 70px;
+}
+.presentacion{
+  position: relative;
+  width:480px;
+  height:220px;
+}
+
+/* nuestrosservicios */
+.cardsdiv{
+  margin-left: 0;
+  margin-right: 0;
+}
+.card{
+  margin:auto;
+  margin-top: 40px;
+}
+.card-title{
+  color: #035aa6;
+}
+
+.card-img-top{
+  width: 302px;
+  height: 300px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #f0a500;
+}
+.card-img-top:hover{
+  border-color: #035aa6;
+}
+.card-text{
+  text-align: left;
+}
+.CNS{
+  color: white;
+  font-family: 'fira sans', sans-serif;
+  text-align: center;
+  padding-top: 5%;
+  font-size: 3rem;
+  padding-bottom: 5%;
+  margin-bottom: 0;
+  text-decoration: underline;
+}
+.conocemasboton{
+  background-color:  #f0a500;
+}
+.conocemasboton:hover{
+  background-color: #035aa6;
+}
+.conocemas-text{
+  color: white;
+}
+/* informacionsobrenosotros */
+#informacionsobrenosotros{
+  background-color: white;
+  padding-top: 30px;
+}
+.info-div{
+  margin-right: 0;
+  margin-left: 0;
+}
+.info-titulo{
+  font-family: 'fira sans', sans-serif;
+  padding-top: 25px;
+  text-align: center;
+  color: #035aa6;
+}
+.info-texto{
+  text-align: left;
+  font-family: 'fira sans', sans-serif;
+  color: #035aa6;
+}
+.info-subtexto{
+  text-align: left;
+}
+.img-text{
+  text-align: left;
+  font-family: 'fira sans', sans-serif;
+  padding: 20px;
+  color: #035aa6;
+}
+.info-text{
+    text-align: left;
+    font-family: 'fira sans', sans-serif;
+    padding: 20px;
+    padding-top:30px;
+    color: #035aa6;
+}
+.rotary-links{
+  text-align: left;
+  margin-bottom: 90px;
+}
+.rotary-map{
+margin-bottom: 80px;
+border: 5px;
+border-color:  #f0a500;
+}
+.donarboton{
+  position: fixed;
+  background-color: #f0a500;
+  bottom: 0;
+  right: 40px;
+}
+.donarboton:hover{
+  background-color: #035aa6;
+}
+.donarboton-text{
+  color: white;
+}
+/* footer */
+#footer{
+  background-color: #035aa6;
+}
+.footer-title{
+  font-family: 'fira sans', sans-serif;
+  color: white;
+  text-align: left;
+  text-decoration: underline;
+  padding-top: 20px;
+}
+.footer-donate-text{
+  font-family: 'fira sans', sans-serif;
+  color: white;
+  text-align: left;
+}
+.deseodonarboton{
+  background-color: #f0a500;
+  margin-right: 110px;
+  margin-bottom: 30px;
+}
+.deseodonarboton:hover{
+  background-color: #035aa6;
+}
+.deseodonarboton-text{
+  color: white;
+}
+.contactanos-footer{
+  text-align: left;
+  font-family: 'fira sans', sans-serif;
+}
+
+
+
+/* piedepagina */
+.piedepagina{
+  background-color: #f0a500;
+  margin-top: 20px;
+}
+.Copyright{
+  margin-bottom: 0;
+  color: white;
+}
+
+/* sobrenosotros */
+#nosotrossection{
+  margin-bottom: 80px;
+}
+.contact-title {
+  font-family: 'fira sans', sans-serif;
+  text-align: center;
+  padding-top: 5%;
+  color: white;
+  font-size: 5rem;
+}
+.nosotros{
+  position: relative;
+background-color: white;
+width: 390px;
+height: 300px;
+line-height: 2;
+}
+hr {
+  background-color: #035aa6;
+  border-style: none;
+  border-top-style: dotted;
+  border-top-color: white;
+  border-top-width: 9px;
+  width: 5%;
+}
+.first-div{
+  margin-top: 30px;
+  height: 390px;
+}
+.nosotros-img-1 {
+  position: absolute;
+  height: 300px;
+  width: 390px;
+  left: 400px;
+}
+
+.nosotros-img-2 {
+  position: absolute;
+  height: 300px;
+  width: 390px;
+  right: 400px;
+}
+
+.nosotros-img-3 {
+  position: absolute;
+  height: 300px;
+  width: 390px;
+  left: 400px;
+}
+
+.nosotros-img-4 {
+  position: absolute;
+  height: 300px;
+  width: 390px;
+  right: 400px;
+}
+.nosotros-title{
+  font-family: 'fira sans', sans-serif;
+  color: #035aa6;
+}
+.nosotros-text{
+  text-align: left;
+  font-family: 'fira sans', sans-serif;
+  color: #f0a500;
+}
+.Ubicacion{
+  background-color: white;
+}
+.areadeinfluenciarotary{
+  margin-bottom: 30px;
+}
+
+/* images */
